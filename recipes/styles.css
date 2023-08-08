@@ -1,0 +1,11 @@
+h1 {
+    font-family: "new times roman";
+    font-size: 72px;
+    font-weight: 700;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+body {
+    text-align: center;
+}
