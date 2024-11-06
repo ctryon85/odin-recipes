@@ -1,0 +1,17 @@
+body {
+    background-color: grey;
+    text-align: center;
+}
+h1 {
+    background-color: black;
+    color: grey;
+    height: 100px;;
+    font-size: 50px;
+}
+
+html {
+    background-color: black;
+}
+li {
+    text-align: center;
+}
